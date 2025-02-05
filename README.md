@@ -150,12 +150,3 @@ insurance_company/      # Main Django project directory
 }
 ```
 
----
-
-## **Running Tests**
-To run tests, execute:
-```bash
-python manage.py test
-```
-
-
