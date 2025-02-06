@@ -15,7 +15,7 @@ This is a REST API for managing insurance policies using Django and Django REST 
 ### 1. Clone the Repository
 ```bash
 git clone <repository_url>
-cd LogRock-Challenge-\insurance_company
+cd LogRock-Challenge-
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -32,12 +32,12 @@ pip install -r requirements.txt
 
 ### 4. Apply Migrations
 ```bash
-python manage.py migrate
+python insurance_company/manage.py migrate
 ```
 
 ### 5. Run the Server
 ```bash
-python manage.py runserver
+python insurance_company/manage.py runserver
 ```
 
 The API will be available at:  
