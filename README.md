@@ -15,7 +15,7 @@ This is a REST API for managing insurance policies using Django and Django REST 
 ### 1. Clone the Repository
 ```bash
 git clone <repository_url>
-cd LogRock-Challenge-
+cd LogRock-Challenge-Django
 ```
 
 ### 2. Create and Activate a Virtual Environment
